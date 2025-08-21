@@ -1,2 +1,1 @@
-name = "Gabriel"
-print(f"hello, {name}")
+print("hello, world")
